@@ -4,7 +4,7 @@
 
 [🔘 Homework 02 – Jobs to be done](https://github.com/yothorn/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2002%20%E2%80%93%20Jobs%20to%20be%20done)
 
-[🔴 Homework 03 – Value Proposition](https://github.com/yothorn/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2003%20%E2%80%93%20Value%20Proposition)
+[🔘 Homework 03 – Value Proposition](https://github.com/yothorn/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2003%20%E2%80%93%20Value%20Proposition)
 
 [🔴 Homework 04 – Customer Journey](https://github.com/yothorn/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2004%20%E2%80%93%20Customer%20Journey)
 
