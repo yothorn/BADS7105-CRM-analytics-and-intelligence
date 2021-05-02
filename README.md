@@ -1,4 +1,4 @@
-# BADS7105-CRM-analytics-and-intelligence
+# BADS7105 CRM analytics and intelligence
 
 [🔘Homework 01 – Analysis of customer behaviors](https://github.com/yothorn/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2001)
 
