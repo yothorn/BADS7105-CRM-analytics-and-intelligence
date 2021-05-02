@@ -4,20 +4,20 @@
 
 [🔘 Homework 02 – Jobs to be done](https://github.com/yothorn/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2002%20%E2%80%93%20Jobs%20to%20be%20done)
 
-🔴Homework 03 – Value Proposition
+[🔴 Homework 03 – Value Proposition](https://github.com/yothorn/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2003%20%E2%80%93%20Value%20Proposition)
 
-🔴Homework 04 – Customer Journey
+[🔴Homework 04 – Customer Journey](https://github.com/yothorn/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2004%20%E2%80%93%20Customer%20Journey)
 
-🔴Homework 05 – CLV Dashboard
+[🔴Homework 05 – CLV Dashboard](https://github.com/yothorn/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2005%20%E2%80%93%20CLV%20Dashboard)
 
-🟠Homework 06 – Customer Segmentation
+[🟠Homework 06 – Customer Segmentation](https://github.com/yothorn/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation)
 
-🔴Homework 07 – Product Recommendation
+[🔴Homework 07 – Product Recommendation](https://github.com/yothorn/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2007%20%E2%80%93%20Product%20Recommendation)
 
-🔴Homework 08 – Campaign Response Model
+[🔴Homework 08 – Campaign Response Model](https://github.com/yothorn/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2008%20%E2%80%93%20Campaign%20Response%20Model)
 
-🟠Homework 09 – A/B Testing
+[🟠Homework 09 – A/B Testing](https://github.com/yothorn/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2009%20%E2%80%93%20A:B%20Testing)
 
-⭐️Homework 10 – Customer Movement Analysis
+[⭐️Homework 10 – Customer Movement Analysis](https://github.com/yothorn/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2010%20%E2%80%93%20Customer%20Movement%20Analysis)
 
-🔴Homework 11 - Voice of Customer Analytics
+[🔴Homework 11 - Voice of Customer Analytics](https://github.com/yothorn/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2011%20-%20Voice%20of%20Customer%20Analytics)
