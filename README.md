@@ -16,7 +16,7 @@
 
 [🔴 Homework 08 – Campaign Response Model](https://github.com/yothorn/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2008%20%E2%80%93%20Campaign%20Response%20Model)
 
-[🟠 Homework 09 – A/B Testing](https://github.com/yothorn/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2009%20%E2%80%93%20A:B%20Testing)
+[🔘 Homework 09 – A/B Testing](https://github.com/yothorn/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2009%20%E2%80%93%20A:B%20Testing)
 
 [⭐️ Homework 10 – Customer Movement Analysis](https://github.com/yothorn/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2010%20%E2%80%93%20Customer%20Movement%20Analysis)
 
