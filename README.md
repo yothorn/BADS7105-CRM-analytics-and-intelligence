@@ -10,7 +10,7 @@
 
 [⭐️ Homework 05 – CLV Dashboard](https://github.com/yothorn/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2005%20%E2%80%93%20CLV%20Dashboard)
 
-[🟠 Homework 06 – Customer Segmentation](https://github.com/yothorn/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation)
+[🔘 Homework 06 – Customer Segmentation](https://github.com/yothorn/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2006%20%E2%80%93%20Customer%20Segmentation)
 
 [🔴 Homework 07 – Product Recommendation](https://github.com/yothorn/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2007%20%E2%80%93%20Product%20Recommendation)
 
