@@ -1,4 +1,4 @@
-# BADS7105-CRM-analytics-and-intelligence
+# Homework 10 – Customer Movement Analysis
 
 [Click here to access this dashboard](https://bit.ly/3y97uWR)
 
