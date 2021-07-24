@@ -1,4 +1,4 @@
-# BADS7105-CRM-analytics-and-intelligence
+# Homework 06 – Customer Segmentation
 
 ## Customer Single View
 <img width="1139" alt="image" src="https://user-images.githubusercontent.com/76954323/126772971-52d15912-95cb-414a-b8b3-ae79eebd7379.png">
