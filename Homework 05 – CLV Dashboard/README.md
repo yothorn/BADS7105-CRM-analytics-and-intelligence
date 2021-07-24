@@ -1,4 +1,4 @@
-# BADS7105-CRM-analytics-and-intelligence
+# Homework 05 – CLV Dashboard
 
 [Click here to access this dashboard](http://bit.ly/ss6yp82)
 
